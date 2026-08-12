@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/b713524d-a42b-415e-8057-8aa09c1383f0
 
 
 <h1 align="center">Olá! meu nome é Arthur Trindade</h1>
@@ -10,11 +9,6 @@ https://github.com/user-attachments/assets/b713524d-a42b-415e-8057-8aa09c1383f0
 <h3 align="center">Estudante da enorme área da informática e suas funcionalidades.
 Gosto bastante de fazer jogos, compor trilhas sonoras, pixel arts, fazer programas, usar microcontroladores em sistemas embarcados.</h3>
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/b713524d-a42b-415e-8057-8aa09c1383f0" width="500" controls>
-    Seu navegador não suporta a reprodução deste vídeo.
-  </video>
-</p>
 
 
 <p align="left">
