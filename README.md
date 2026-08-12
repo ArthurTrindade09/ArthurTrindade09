@@ -1,6 +1,7 @@
 <h1 align="center">Olá! meu nome é Arthur Trindade</h1>
-<h3 align="center">Estudante da enorme área da informática e suas funcionalidades</h3>
-
+<h3 align="center">Estudante da enorme área da informática e suas funcionalidades.</h3>
+<h3 align="center">Gosto bastante de fazer jogos, compor trilhas sonoras, pixel arts, fazer programas, usar microcontroladores em sistemas embarcados.</h3>
+<h3 align="center">(¬_ ¬')</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
