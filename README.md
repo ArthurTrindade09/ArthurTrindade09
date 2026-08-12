@@ -1,9 +1,10 @@
 <h1 align="center">Olá! meu nome é Arthur Trindade</h1>
-<h3 align="center">Estudante da enorme área da informática e suas funcionalidades.
-Gosto bastante de fazer jogos, compor trilhas sonoras, pixel arts, fazer programas, usar microcontroladores em sistemas embarcados.</h3>
 <p align="center">
   <img src="screenshot.png" alt="Alternative text" width="500" style="background-color: white; padding: 10px; border-radius: 8px;">
 </p>
+<h3 align="center">Estudante da enorme área da informática e suas funcionalidades.
+Gosto bastante de fazer jogos, compor trilhas sonoras, pixel arts, fazer programas, usar microcontroladores em sistemas embarcados.</h3>
+
 
 
 <p align="left">
