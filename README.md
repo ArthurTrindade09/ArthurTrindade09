@@ -3,11 +3,12 @@
   <img src="screenshot.png" alt="Alternative text" width="500" style="background-color: white; padding: 10px; border-radius: 8px;">
 </p>
 
-https://github.com/user-attachments/assets/be81191e-dfb7-4d99-a7b4-c15939cb3aeb
+
+https://github.com/user-attachments/assets/ceeb362a-4673-4a5f-95a0-5e7c9fbecea9
+
 
 <h3 align="center">Estudante da enorme área da informática e suas funcionalidades.
 Gosto bastante de fazer jogos, compor trilhas sonoras, pixel arts, fazer programas, usar microcontroladores em sistemas embarcados.</h3>
-
 
 
 <p align="left">
