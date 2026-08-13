@@ -5,6 +5,7 @@
 
 <h3 align="center">Estudante da área de informática e suas funcionalidades.</h3>
 <p>Gosto bastante de fazer jogos, compor trilhas sonoras, pixel artes, fazer programas e usar microcontroladores em sistemas embarcados.</p>
+<p>Espero eu conseguir falar com as estrelas antes do pálio celeste poder esclareces...</p>
 
 <p align="left">
 </p>
