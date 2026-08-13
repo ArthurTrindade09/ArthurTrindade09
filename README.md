@@ -1,17 +1,12 @@
 
 
-https://github.com/user-attachments/assets/be81191e-dfb7-4d99-a7b4-c15939cb3aeb
-
+[James&CharlloteTjhemeSample.mp3](https://github.com/user-attachments/files/31008234/James.CharlloteTjhemeSample.mp3)
 
 <h1 align="center">Olá! meu nome é Arthur Trindade</h1>
 <p align="center">
   <img src="screenshot.png" alt="Alternative text" width="500" style="background-color: white; padding: 10px; border-radius: 8px;">
 </p>
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/be81191e-dfb7-4d99-a7b4-c15939cb3aeb" width="500" controls>
-    Seu navegador não suporta a reprodução deste vídeo.
-  </video>
-</p>
+
 
 <h3 align="center">Estudante da enorme área da informática e suas funcionalidades.
 Gosto bastante de fazer jogos, compor trilhas sonoras, pixel arts, fazer programas, usar microcontroladores em sistemas embarcados.</h3>
