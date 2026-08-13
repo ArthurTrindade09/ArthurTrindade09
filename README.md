@@ -6,6 +6,8 @@
 
 https://github.com/user-attachments/assets/ceeb362a-4673-4a5f-95a0-5e7c9fbecea9
 
+<h3 align="center">Jeimes & Charllote</h3>
+
 
 <h3 align="center">Estudante da enorme área da informática e suas funcionalidades.
 Gosto bastante de fazer jogos, compor trilhas sonoras, pixel arts, fazer programas, usar microcontroladores em sistemas embarcados.</h3>
