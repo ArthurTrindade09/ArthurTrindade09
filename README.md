@@ -3,8 +3,8 @@
   <img src="screenshot.png" alt="Alternative text" width="350" style="background-color: white; padding: 10px; border-radius: 8px;">
 </p>
 
-<h3 align="center">Estudante da área da informática e de suas funcionalidades.
-Gosto bastante de fazer jogos, compor trilhas sonoras, pixel artes, fazer programas e usar microcontroladores em sistemas embarcados.</h3>
+<h3 align="center">Estudante da área de informática e suas funcionalidades.</h3>
+<p>Gosto bastante de fazer jogos, compor trilhas sonoras, pixel artes, fazer programas e usar microcontroladores em sistemas embarcados.</p>
 
 <p align="left">
 </p>
