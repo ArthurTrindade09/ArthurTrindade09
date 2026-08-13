@@ -1,6 +1,6 @@
 <h1 align="center">Olá! meu nome é Arthur Trindade</h1>
 <p align="center">
-  <img src="screenshot.png" alt="Alternative text" width="500" style="background-color: white; padding: 10px; border-radius: 8px;">
+  <img src="screenshot.png" alt="Alternative text" width="350" style="background-color: white; padding: 10px; border-radius: 8px;">
 </p>
 
 <h3 align="center">Estudante da área da informática e de suas funcionalidades.
