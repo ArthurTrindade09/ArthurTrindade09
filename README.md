@@ -1,5 +1,3 @@
-https://github.com/user-attachments/assets/2194c572-8eeb-4292-9f75-1afb5a9b1c33
-
 <h1 align="center">Olá! meu nome é Arthur Trindade</h1>
 <p align="center">
   <img src="screenshot.png" alt="Alternative text" width="500" style="background-color: white; padding: 10px; border-radius: 8px;">
